@@ -15,18 +15,18 @@ By @StarkBots
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")],
+        [InlineKeyboardButton(text="ʀᴇᴛᴜʀɴ ʜᴏᴍᴇ", callback_data="home")],
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("ʙᴏᴛ ꜱᴛᴀᴛᴜꜱ ᴀɴᴅ ᴍᴏʀᴇ ʙᴏᴛꜱ", url="https://t.me/StarkBots/7")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜꜱᴇ", callback_data="help"),
+            InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("ᴍᴏʀᴇ ᴀᴍᴀᴢɪɴɢ ʙᴏᴛꜱ", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/StarkBotsChat")],
     ]
 
     # Help Message
@@ -48,15 +48,15 @@ Alternative Commands
 
     # About Message
     ABOUT = """
-**About This Bot** 
+**ᴀʙᴏᴜᴛ ᴛʜɪꜱ ʙᴏᴛ** 
 
-A telegram channel automation bot by @StarkBots
+ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ʙᴏᴛ 
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/ChannelBot)
+ᴜᴘᴅᴀᴛᴇꜱ : @HNYOP
 
-Framework : [Pyrogram](docs.pyrogram.org)
+ꜰʀᴀᴍᴇᴡᴏʀᴋ : [ᴘʏʀᴏɢʀᴀᴍ](ᴅᴏᴄꜱ.ᴘʏʀᴏɢʀᴀᴍ.ᴏʀɢ)
 
-Language : [Python](www.python.org)
+ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](ᴡᴡᴡ.ᴘʏᴛʜᴏɴ.ᴏʀɢ)
 
-Developer : @StarkProgrammer
+ᴅᴇᴠᴇʟᴏᴘᴇʀ : @HNYOP
     """
